@@ -4,7 +4,7 @@ setup(
     name='word-detector',
     version='1.0.0',
     description='Word Detector',
-    author='Harald Scheidl',
+    author='Vedansh',
     packages=['word_detector'],
     url="https://github.com/githubharald/WordDetector",
     install_requires=['numpy', 'sklearn', 'opencv-python'],
