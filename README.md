@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-#ScriptScribe
-=======
 # ScriptScribe
 
 ## Installation
@@ -97,4 +94,3 @@ The filter is in fact a low-pass, with different cut-off frequencies in x and y 
 The best way to find the optimal parameters is to use a dataset (e.g. IAM) and optimize the parameters w.r.t. some
 evaluation metric (e.g. intersection over union).
 
->>>>>>> 9128e89 (Initial commit)
