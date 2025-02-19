@@ -93,7 +93,3 @@ The filter is in fact a low-pass, with different cut-off frequencies in x and y 
 
 The best way to find the optimal parameters is to use a dataset (e.g. IAM) and optimize the parameters w.r.t. some
 evaluation metric (e.g. intersection over union).
-<<<<<<< HEAD
-
-=======
->>>>>>> 2fcda82c56cd5ff51b7c311283aec57ba1cfc448
